@@ -11,3 +11,13 @@
 # 7. Customer Lifetime Value (CLTV = (customer_value / churn_rate) x profit_margin)
 # 8. Segmentlerin Oluşturulması
 # 9. BONUS: Tüm İşlemlerin Fonksiyonlaştırılması
+##############################################################
+# BG-NBD ve Gamma-Gamma ile CLTV Prediction
+##############################################################
+
+# 1. Verinin Hazırlanması (Data Preperation)
+# 2. BG-NBD Modeli ile Expected Number of Transaction
+# 3. Gamma-Gamma Modeli ile Expected Average Profit
+# 4. BG-NBD ve Gamma-Gamma Modeli ile CLTV'nin Hesaplanması
+# 5. CLTV'ye Göre Segmentlerin Oluşturulması
+# 6. Çalışmanın fonksiyonlaştırılması
